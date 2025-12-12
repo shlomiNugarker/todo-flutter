@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
 // TodoApp - Main screen (with State)
 // ========================================
 class TodoApp extends StatefulWidget {
-  const TodoApp({super.key});rr
+  const TodoApp({super.key});
 
   @override
   State<TodoApp> createState() => _TodoAppState();
